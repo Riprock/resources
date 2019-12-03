@@ -183,6 +183,8 @@ This is my collection of resources for learning computing security. They are mos
  ### To Be Sorted
  - [Hacker Sploit](https://hackersploit.org)
      - <decsription\>
+ -[Security Tube](http://www.securitytube.net/)
+     - Not the most active place for videos but has some good content. Useful for looking for security content then finding the viewos on youtube
  
  ### Bug Bountys
   - [BugCrowd](https://www.bugcrowd.com/)
