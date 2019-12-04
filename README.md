@@ -134,9 +134,13 @@ This is my collection of resources for learning computing security. They are mos
   
 ### Useful Subreddits (needs descriptions)
 - [/r/netsec](https://www.reddit.com/r/netsec/)
+  - A community for technical news and discussion of information security and closely related topics.
 - [/r/asknetsec](https://www.reddit.com/r/asknetsec/)
+  - A place to ask questions about security related topics
 - [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
+  - Subreddit for students or anyone studying Network Security. This is the place to ask questions regarding your netsec homework, or perhaps you need resources for certain subjects, either way you'll find them here!
 - [/r/cybersecurity](https://www.reddit.com/r/cybersecurity)
+  - A place to go for cybersecurity news and discussion
 - [/r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
 - [/r/ceos3c](https://www.reddit.com/r/ceos3c/)
 - [/r/computer forensics](https://www.reddit.com/r/computerforensics/)
@@ -147,22 +151,32 @@ This is my collection of resources for learning computing security. They are mos
 - [/r/hacking](https://www.reddit.com/r/hacking/)
 - [/r/hacking_tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
 - [/r/homelab](https://www.reddit.com/r/homelab/)
+  - Welcome to your friendly /r/homelab, where techies and sysadmin from everywhere are welcome to share their labs, projects, builds, etc.
 - [/r/newtworking](https://www.reddit.com/r/networking/)
 - [/r/howtohack](https://www.reddit.com/r/HowToHack/)
 - [/r/sysadmin](https://www.reddit.com/r/sysadmin/)
+  - A reddit dedicated to the profession of Computer System Administration.
 - [/r/securityblueteam](https://www.reddit.com/r/SecurityBlueTeam/)
+  - A subreddit for Blue Teamers. Discussion around network and endpoint defence, vulnerability management, threat hunting, security control development, and more! Also runs events such as Operation Chimera
+- [/r/securityredteam](https://www.reddit.com/r/SecurityRedTeam/)
+  - A subreddit for Red Teamers. Discussion around ethical hacking, penetration testing, CTFs, vulnerability assessment, red team operations, bug bounties, and more! Also runs events such as Operation Icarus 
 - [/r/security](https://www.reddit.com/r/security/)
+  - A friendly and professional place for discussing computer security.
 
 ### Youtube Channels (needs descriptions)
  - [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+  - A dude that does CTF things and does some explaining into cybersecurity 
  - [Network Chuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
  - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
  - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
  - [DefCon](https://www.youtube.com/user/DEFCONConference)
+  - The offical DEFCON confrence channel
  - [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+   - Home of the youtube series Cyber Weapons Lab
  - [/dev/null](https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos)
  - [Computerphile](https://www.youtube.com/user/Computerphile)
  - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+    - A guy that does some AI Things, Doesnt really go into code just talk about building it and how it works
  - [DeviantOllam(Lock Picking)](https://www.youtube.com/user/DeviantOllam/videos)
  - [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA/videos)
  - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
